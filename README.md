@@ -7,7 +7,7 @@
 
 강의 정보 (Coursera_RL)
 : https://www.coursera.org/my-learning?myLearningTab=IN_PROGRESS 
----
+- ---
 레포지토리 구조 (Repository Structure)
 각 폴더에는 주차별 강의 노트(Markdown)와 실습 코드(Python/Jupyter)가 포함되어 있습니다.
 
